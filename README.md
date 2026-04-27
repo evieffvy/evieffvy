@@ -37,7 +37,7 @@ with a strong interest in AI/Security Engineering roles.
 
 | Project | Description | Tech |
 |---|---|---|
-| [NYXUS](https://github.com/evieffvy/NYXUS) | — | TypeScript |
+| [NYXUS](https://github.com/evieffvy/NYXUS) | Personal AI-powered web application | TypeScript |
 | [sycl_project](https://github.com/evieffvy/sycl_project) | Parallel computing with SYCL | C++ |
 | [pca-face-recognition](https://github.com/evieffvy/pca-face-recognition) | Face recognition using Principal Component Analysis (PCA) | Python |
 | [titanic-id3](https://github.com/evieffvy/titanic-id3) | Decision tree classifier on Titanic dataset | Python |
