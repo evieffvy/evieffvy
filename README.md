@@ -1,8 +1,8 @@
 # Hi, I'm Evie 👋
 
-**Computer Engineering Student** · AI Engineering & Cybersecurity
+**Computer Engineering Student** @ Assumption University · AI Engineering & Cybersecurity
 
-I'm a 3rd–4th year Computer Engineering student,
+I'm a 3rd–4th year Computer Engineering student at ABAC,
 passionate about building intelligent systems and securing them.
 I work on ML-based projects and low-level systems programming,
 with a strong interest in AI/Security Engineering roles.
