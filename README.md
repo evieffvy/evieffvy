@@ -55,7 +55,7 @@ with a strong interest in AI/Security Engineering roles.
 ## 🌐 Spoken Languages
 
 - 🇹🇭 Thai (Native)
-- 🇬🇧 English (Fluently)
+- 🇬🇧 English (Fluent)
 - 🇨🇳 Chinese (Currently learning · HSK 3)
 
 ---
