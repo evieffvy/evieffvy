@@ -7,7 +7,6 @@ passionate about building intelligent systems and securing them.
 I work on ML-based projects and low-level systems programming,
 with a strong interest in AI/Security Engineering roles.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evieffvy&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/evieffvy)
 
 ---
 
