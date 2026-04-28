@@ -7,6 +7,9 @@ passionate about building intelligent systems and securing them.
 I work on ML-based projects and low-level systems programming,
 with a strong interest in AI/Security Engineering roles.
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=evieffvy&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/evieffvy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evieffvy&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/evieffvy)
+
 ---
 
 ## 🛠 Languages & Tools
@@ -37,12 +40,13 @@ with a strong interest in AI/Security Engineering roles.
 
 | Project | Description | Tech |
 |---|---|---|
-| [NYXUS](https://github.com/evieffvy/NYXUS) | Personal AI-powered web application | TypeScript |
-| [sycl_project](https://github.com/evieffvy/sycl_project) | Parallel computing with SYCL | C++ |
-| [pca-face-recognition](https://github.com/evieffvy/pca-face-recognition) | Face recognition using Principal Component Analysis (PCA) | Python |
-| [titanic-id3](https://github.com/evieffvy/titanic-id3) | Decision tree classifier on Titanic dataset | Python |
-| [market-apriori](https://github.com/evieffvy/market-apriori) | Market basket analysis with Apriori algorithm | Python |
-| [iris-kmeans](https://github.com/evieffvy/iris-kmeans) | K-Means clustering on Iris dataset | Python |
+| **[NYXUS](https://github.com/evieffvy/NYXUS)** 🚀 [(live demo)](https://nyxus-phi.vercel.app) | Full-stack RAG chatbot with security-first design — PII redaction, prompt-injection guard, OWASP code scanner, audit log | Next.js · FastAPI · Postgres · Gemini |
+| [sycl_project](https://github.com/evieffvy/sycl_project) | Parallel computing experiments with SYCL/oneAPI on Intel GPUs | C++ |
+| [stanford-dogs-cnn](https://github.com/evieffvy/stanford-dogs-cnn) | Dog breed classification on Stanford Dogs dataset using CNN transfer learning | Python |
+| [pca-face-recognition](https://github.com/evieffvy/pca-face-recognition) | Face recognition with PCA (eigenfaces) on a face dataset | Python |
+| [titanic-id3](https://github.com/evieffvy/titanic-id3) | Decision tree classifier (ID3) on Titanic survival dataset | Python |
+| [market-apriori](https://github.com/evieffvy/market-apriori) | Market basket analysis using the Apriori algorithm | Python |
+| [iris-kmeans](https://github.com/evieffvy/iris-kmeans) | K-Means clustering on the Iris dataset with elbow method + silhouette analysis | Python |
 | [imdb-sentiment](https://github.com/evieffvy/imdb-sentiment) | Sentiment analysis on IMDB reviews | Python |
 
 ---
