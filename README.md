@@ -7,6 +7,8 @@ passionate about building intelligent systems and securing them.
 I work on ML-based projects and low-level systems programming,
 with a strong interest in AI/Security Engineering roles.
 
+🌐 **[portfolio-evieffvys-projects.vercel.app](https://portfolio-evieffvys-projects.vercel.app)** ← see my work
+
 
 ---
 
@@ -60,6 +62,7 @@ with a strong interest in AI/Security Engineering roles.
 
 ## 📫 Contact
 
-- Email: tarzkkjk@gmail.com
+- 🌐 Portfolio: [portfolio-evieffvys-projects.vercel.app](https://portfolio-evieffvys-projects.vercel.app)
+- ✉️ Email: tarzkkjk@gmail.com
 - 🔗 [linktr.ee/evieffvy](https://linktr.ee/evieffvy)
 - 💼 Open to **internship** and **junior engineer** opportunities
