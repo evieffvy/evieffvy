@@ -65,6 +65,6 @@ with a strong interest in AI/Security Engineering roles.
 
 - 🌐 Portfolio: [evieffvy.vercel.app](https://evieffvy.vercel.app)
 - 💼 LinkedIn: [Kansinee Khuttiya](https://www.linkedin.com/in/evieffvy)
-- ✉️ Email: tarzkkjk@gmail.com
+- ✉️ Email: kansineek.dev@gmail.com
 - 🔗 [linktr.ee/evieffvy](https://linktr.ee/evieffvy)
 - 🚀 Open to **internship** and **junior engineer** opportunities
