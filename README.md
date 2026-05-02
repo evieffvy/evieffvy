@@ -43,7 +43,7 @@ with a strong interest in AI/Security Engineering roles.
 |---|---|---|
 | **[NYXUS](https://github.com/evieffvy/NYXUS)** 🚀 [(live demo)](https://nyxus-phi.vercel.app) | Full-stack RAG chatbot with security-first design — PII redaction, prompt-injection guard, OWASP code scanner, audit log | Next.js · FastAPI · Postgres · Gemini |
 | **[HORUS](https://github.com/evieffvy/HORUS)** 🛡 [(live demo)](https://horus-vulnscope.vercel.app) | AI-powered threat intelligence dashboard — live NVD CVE feed, Gemini summarization, bilingual Thai/English chat, PDF export | Next.js · TypeScript · Gemini · Recharts |
-| [sycl_project](https://github.com/evieffvy/sycl_project) | Parallel computing experiments with SYCL/oneAPI on Intel GPUs | C++ |
+| [sycl_project](https://github.com/evieffvy/sycl_project) [(live)](https://evieffvy.github.io/sycl_project) | Parallel computing experiments with SYCL/oneAPI on Intel GPUs | C++ |
 | [stanford-dogs-cnn](https://github.com/evieffvy/stanford-dogs-cnn) | Dog breed classification on Stanford Dogs dataset using CNN transfer learning | Python |
 | [pca-face-recognition](https://github.com/evieffvy/pca-face-recognition) | Face recognition with PCA (eigenfaces) on a face dataset | Python |
 | [titanic-id3](https://github.com/evieffvy/titanic-id3) | Decision tree classifier (ID3) on Titanic survival dataset | Python |
