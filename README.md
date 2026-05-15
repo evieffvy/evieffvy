@@ -41,15 +41,11 @@ with a strong interest in AI/Security Engineering roles.
 
 | Project | Description | Tech |
 |---|---|---|
-| **[NYXUS](https://github.com/evieffvy/NYXUS)** 🚀 [(live demo)](https://nyxus-phi.vercel.app) | Full-stack RAG chatbot with security-first design — PII redaction, prompt-injection guard, OWASP code scanner, audit log | Next.js · FastAPI · Postgres · Gemini |
-| **[HORUS](https://github.com/evieffvy/HORUS)** 🛡 [(live demo)](https://horus-vulnscope.vercel.app) | AI-powered threat intelligence dashboard — live NVD CVE feed, Gemini summarization, bilingual Thai/English chat, PDF export | Next.js · TypeScript · Gemini · Recharts |
-| [sycl_project](https://github.com/evieffvy/sycl_project) [(live)](https://evieffvy.github.io/sycl_project) | Parallel computing experiments with SYCL/oneAPI on Intel GPUs | C++ |
-| [stanford-dogs-cnn](https://github.com/evieffvy/stanford-dogs-cnn) | Dog breed classification on Stanford Dogs dataset using CNN transfer learning | Python |
-| [pca-face-recognition](https://github.com/evieffvy/pca-face-recognition) | Face recognition with PCA (eigenfaces) on a face dataset | Python |
-| [titanic-id3](https://github.com/evieffvy/titanic-id3) | Decision tree classifier (ID3) on Titanic survival dataset | Python |
-| [market-apriori](https://github.com/evieffvy/market-apriori) | Market basket analysis using the Apriori algorithm | Python |
-| [iris-kmeans](https://github.com/evieffvy/iris-kmeans) | K-Means clustering on the Iris dataset with elbow method + silhouette analysis | Python |
-| [imdb-sentiment](https://github.com/evieffvy/imdb-sentiment) | Sentiment analysis on IMDB reviews | Python |
+| **[NYXUS](https://github.com/evieffvy/NYXUS)** 🚀 [(live demo)](https://nyxus-phi.vercel.app) | Full-stack RAG chatbot with security-first design — PII redaction, prompt-injection guard, OWASP code scanner, audit log | Next.js · FastAPI · Postgres · Groq |
+| **[HORUS](https://github.com/evieffvy/HORUS)** 🛡 [(live demo)](https://horus-vulnscope.vercel.app) | AI-powered threat intelligence dashboard — live NVD CVE feed, Groq summarization, bilingual Thai/English chat, PDF export | Next.js · TypeScript · Groq · Recharts |
+| [sycl_project](https://github.com/evieffvy/sycl_project) [(live)](https://evieffvy.github.io/sycl_project) | Parallel computing experiments with SYCL/oneAPI on Intel GPUs | C++ · SYCL · oneAPI |
+
+*ML coursework: CNN, PCA, K-Means, Apriori, NLP — [github.com/evieffvy](https://github.com/evieffvy?tab=repositories)*
 
 ---
 
